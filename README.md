@@ -68,21 +68,21 @@ Passionate about leveraging AI and data engineering to build innovative solution
 
 <p align="center">
   <a href="https://github.com/edison-hong">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=edison-hong&theme=dark&hide_border=false&background=FFFFFF&border=800000&ring=800000&fire=800000&currStreakLabel=800000&currStreakNum=800000&sideNums=800000&sideLabels=800000&dates=800000" alt="Edison Hong's GitHub streak"/>
+    <img alt="Edison Hong's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=edison-hong&theme=dark&hide_border=false&background=FFFFFF&border=800000&ring=800000&fire=800000&currStreakLabel=800000&currStreakNum=800000&sideNums=800000&sideLabels=800000&dates=800000" height="180px" width="49%"/>
+  </a>
+  <a href="https://github.com/edison-hong">
+    <img alt="Edison Hong's GitHub Contribution" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edison-hong&theme=default" height="180px" width="49%"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/edison-hong">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edison-hong&theme=github_dark" alt="Edison Hong's GitHub Contribution"/>
+    <img alt="Edison Hong's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=edison-hong&show_icons=true&count_private=true&theme=dark&border_color=800000&bg_color=FFFFFF&title_color=800000&icon_color=800000&text_color=800000" height="180px" width="49%"/>
+  </a>
+  <a href="https://github.com/edison-hong">
+    <img alt="Edison Hong's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=edison-hong&langs_count=8&layout=compact&theme=dark&border_color=800000&bg_color=FFFFFF&title_color=800000&icon_color=800000&text_color=800000" height="180px" width="49%"/>
   </a>
 </p>
-
-<a> 
-    <a href="https://github.com/edison-hong"><img alt="Edison Hong's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=edison-hong&show_icons=true&count_private=true&theme=dark&border_color=800000&bg_color=FFFFFF&title_color=800000&icon_color=800000&text_color=333333" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/edison-hong"><img alt="Edison Hong's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=edison-hong&langs_count=8&layout=compact&theme=dark&border_color=800000&bg_color=FFFFFF&title_color=800000&icon_color=800000&text_color=333333" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
 
 ---
 ## 💼 Professional Experience
