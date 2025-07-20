@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Edison;Keep+exploring!+:D)](https://git.io/typing-svg)
 
-# Hello, I'm Edison Hong 👋     
+# Hello, I'm Edison Hong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>     
       
 **Computer Science Student & AI/Data Engineer**          
 Passionate about leveraging AI and data engineering to build innovative solutions. Experienced in machine learning, full-stack development, and data pipelines, with a focus on creating impactful applications that solve real-world problems.
@@ -74,7 +74,7 @@ Passionate about leveraging AI and data engineering to build innovative solution
 
 <p align="center">
   <a href="https://github.com/edison-hong">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edison-hong&theme=default" alt="Edison Hong's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edison-hong&theme=github_dark" alt="Edison Hong's GitHub Contribution"/>
   </a>
 </p>
 
@@ -130,6 +130,16 @@ Passionate about leveraging AI and data engineering to build innovative solution
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edisonhong)
 [![Phone](https://img.shields.io/badge/Phone-213--924--9145-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:213-924-9145)
 [![Portfolio](https://img.shields.io/badge/Portfolio-edisonhong.netlify.app-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://edisonhong.netlify.app)
+
+---
+
+## 🐍 Watch my contributions snake around
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edison-hong/edison-hong/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edison-hong/edison-hong/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/edison-hong/edison-hong/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
