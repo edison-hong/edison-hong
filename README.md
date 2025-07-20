@@ -121,4 +121,4 @@ Passionate about leveraging AI and data engineering to build innovative solution
 
 ---
 
-**Thanks for visiting!** Feel free to explore my repositories and reach out if you'd like to collaborate on AI, data engineering, or full-stack development projects! 🚀
+**Thanks for visiting!** 🎯 Feel free to explore my repositories and reach out if you'd like to collaborate on AI, data engineering, or full-stack development projects! 🚀
