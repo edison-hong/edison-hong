@@ -89,39 +89,17 @@ Passionate about leveraging AI and data engineering to build innovative solution
 
 ### Data Engineer/Applied ML Intern | Mohawk Industries
 - Processed 16,000+ product images using Python and Batch API calls, generating LLM-based attributes and Power BI dashboards for 10+ teams
-- Built ETL data pipeline to automate metadata for product analysis, resulting in 80% faster product workflows
 - Developed SlideGen AI tool that converts 100+ page documents to PowerPoint presentations in under 3 minutes, resulting in 85% time savings for the finance team
 
 ### Software Quality Assurance Tester | CIPHER Georgia Tech Research Institute
 - Created, modified, and executed 200+ manual test cases ensuring accuracy and completeness of all test artifacts
-- Documented 100+ detailed software requirements, supporting development and testing for major projects
 - Reported and meticulously tracked 300+ software defects, collaborating with development teams to resolve issues
 
 ### Lead UI/UX Engineer | Bubble Date
 - Designed web app meant to match groups of friends together in romantic and platonic situations
-- Leveraged insights from 4000+ college students to drive matching and interface enhancements
 
 ### AI Researcher | Clemson University, Human AI Empowerment Lab
 - Developed GPT task management model to automate 200+ email generations, manage 50+ calendar events, resulting in 60% reduction in administrative overhead
-- Optimized error handling protocols, resulting in 50% increase in task execution across 1,000+ daily operations
-
----
-## 🚀 Featured Projects
-
-### SlideGen AI
-**Tech Stack:** Python, Next.js, TypeScript, React, Tailwind CSS
-- Built AI-powered tool that converted documents into PowerPoint slides with auto-generated charts and relevant images, resulting in 85% time savings
-- Implemented PPTX template merging with real-time preview functionality, resulting in 200+ beta users
-
-### Fetchi Chrome Extension
-**Tech Stack:** JavaScript, HTML/CSS, Google OAuth
-- Developed Chrome extension for users to monitor 500+ targeted company positions with automated alerts
-- Enhanced user experience through a dashboard with job tracking, resulting in 75% reduction in job search time
-
-### Flight Delay Prediction Chrome Extension
-**Tech Stack:** JavaScript, HTML/CSS, React.js
-- Integrated a Chrome extension to predict chances of flight delay and load real-time information from 20+ airlines
-- Collaborated on front-end design and API integration to display dynamic, up-to-date flight information
 
 ---
 ## 📫 Let's Connect
