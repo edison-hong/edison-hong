@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Edison;Keep+exploring!+:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Edison;Keep+exploring!+:D)](https://git.io/typing-svg)
 
 # Hello, I'm Edison Hong 👋     
       
@@ -74,7 +74,7 @@ Passionate about leveraging AI and data engineering to build innovative solution
 
 <p align="center">
   <a href="https://github.com/edison-hong">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edison-hong&theme=2077" alt="Edison Hong's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edison-hong&theme=default" alt="Edison Hong's GitHub Contribution"/>
   </a>
 </p>
 
