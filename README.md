@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Edison;Keep+exploring!+:D)](https://git.io/typing-svg)
+
 # Hello, I'm Edison Hong 👋     
       
 **Computer Science Student & AI/Data Engineer**          
@@ -53,7 +55,6 @@ Passionate about leveraging AI and data engineering to build innovative solution
 ![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=plastic&logo=rstudio&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=plastic&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=plastic&logo=openai&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white)
 
@@ -65,7 +66,23 @@ Passionate about leveraging AI and data engineering to build innovative solution
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edison-hong&show_icons=true&theme=blue-green&rank_icon=github&include_all_commits=true)
+<p align="center">
+  <a href="https://github.com/edison-hong">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=edison-hong&theme=radical&border=7F3FBF&background=0D1117" alt="Edison Hong's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/edison-hong">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edison-hong&theme=radical" alt="Edison Hong's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/edison-hong"><img alt="Edison Hong's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=edison-hong&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/edison-hong"><img alt="Edison Hong's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=edison-hong&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 ---
 ## 💼 Professional Experience
