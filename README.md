@@ -121,4 +121,16 @@ Passionate about leveraging AI and data engineering to build innovative solution
 
 ---
 
-**Thanks for visiting!** Feel free to explore my repositories and reach out if you'd like to collaborate on AI, data engineering, or full-stack development projects! 🚀
+## 💫 3D Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" width="100" height="100" alt="3D Spinning Coin" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=800000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+collaborate+on+exciting+projects!;AI+%7C+Data+Engineering+%7C+Full-Stack" alt="Typing SVG" />
+</div>
+
+---
+
+**Feel free to explore my repositories and reach out if you'd like to collaborate on AI, data engineering, or full-stack development projects!** 🚀
